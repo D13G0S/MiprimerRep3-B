@@ -17,6 +17,16 @@ Dados los datos, el promedio seria: 7
 
 Algoritmo 
 1. Inicio
-2. Definir promedio, numero1
-3. Imprimir "Dame el numero 1:" 
-4. Hacer numero 1 = Entrada al usuario 
+2. Definir promedio, numero1, numero2, numero3, numero4, numero5
+3. Imprimir "Dame el numero 1:"
+4. Hacer el numero1 = entrada a el usuario
+5. Imprimir "Dame el numero 2:"
+6. Hacer el numero2 = entrada a el usuario
+7. Imprimir "Dame el numero 3:"
+8. Hacer el numero3 = entrada a el usuario
+9. Imprimir "Dame el numero 4:"
+10. Hacer el numero4 = entrada a el usuario
+11. Imprimir "Dame el numero5:"
+12. Hacer el numero5 = entrada a el usuario 
+13. 
+14.
